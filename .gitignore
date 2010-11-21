@@ -8,5 +8,4 @@ doc/api
 doc/app
 *.swp
 *~
-Gemfile.lock
 .DS_Store
